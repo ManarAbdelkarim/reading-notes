@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## profile 
 
-You can use the [editor on GitHub](https://github.com/ManarAbdelkarim/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Manar Imad Abdelkarim ... Studied CIS at Princess Noura University with a medium work experience in web development and design.
+I believe that this course will help me to become a professional full-stack developer in an organized and steady way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is my summary of [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) Article
 
-### Markdown
+# Growth Mindset and Fixed Mindset
+A Growth Mindset can be reached by practicing and focusing on the way of thinking. people shuold Perseverance, gumption traps, and maintaining a growth mindset.Thinking as a grouth minset person will not make you grow only at work,  but also outside work. A growth mindset opens up more creativity and possibility. The paragraph below will describe how growth mindset and fixed mindset function and the difference between them in many aspects , and finally some examples of growth mindset thinking.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Growth Mindset:**
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort,
 
-```markdown
-Syntax highlighted code block
+**fixed mindset:**
+ intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone,
+ without the need for further development or effort.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## The way of thinking between Growth and fixed mindsets: 
+- ***Challenges***
 
-1. Numbered
-2. List
+the fixed mindset avoids the challenges when the growth mindset embrace any challenge.
+- ***Obstacles***
 
-**Bold** and _Italic_ and `Code` text
+when facing an obstacle , people with growth mindset will persists to keep going and solve it while fixed mindset people will lose focus.
+- ***Effort***
 
-[Link](url) and ![Image](src)
-```
+The fixed mindset views the effort as afruitless work , in another hand , the growth mindset views the effort as a must
+ to  achieve goal "No pain ,No gain".
+- ***Criticism*** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Which aspects of my work am I most good at ? and how can I make sure it doesn’t happen again? this is the questions which growth mindset's person will ask himelf when recieve criticism , where the fixed mindset's person will 
+ignore the criticism and  view it as a burden 
 
-### Jekyll Themes
+## Examples of Growth midset thinking:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManarAbdelkarim/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.  if there is something I can't do , That only means I can't do it yet! like a sport or new skills  
+2.   I should not take the critisim as a personal attack and get offended from my co-workerrs or anyone, 
+but I should separate the words from the intent and understand that it's still not specifically about me and I should take 
+advantage of it.
+3.  I should always remember that it is not too late to learn something new or even make a big shift and take new challenges.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
