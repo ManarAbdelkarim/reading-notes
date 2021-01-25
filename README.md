@@ -12,4 +12,4 @@ This Page is for all the Readme pages in the Repositry
 
 |                                   Read                                   |                             link                              |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|                ReadMe -Growth Mindset                 | [link](https://manarabdelkarim.github.io/reading-notes/)  |
+|                ReadMe -Growth Mindset                 | [link](https://manarabdelkarim.github.io/reading-notes/Read02a)  |
