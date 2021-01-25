@@ -9,7 +9,8 @@ Here is my summary of [How you can benefit from a growth mindset](https://www.at
 A Growth Mindset can be reached by practicing and focusing on the way of thinking. people shuold Perseverance, gumption traps, and maintaining a growth mindset.Thinking as a grouth minset person will not make you grow only at work,  but also outside work. A growth mindset opens up more creativity and possibility. The paragraph below will describe how growth mindset and fixed mindset function and the difference between them in many aspects , and finally some examples of growth mindset thinking.
 
 **Growth Mindset:**
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort,
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort,it is when someone develop himself by his own by 
+taking challenges, love learning and accept the tirsome criticism and put all the effort into one to achieve a goal. 
 
 **fixed mindset:**
  intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone,
