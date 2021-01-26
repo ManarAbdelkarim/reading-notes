@@ -2,7 +2,7 @@
 # Git & Github   
 
 
-# git
+
 ## What is git?
 ![github & Git](https://i.morioh.com/2019/11/11/1f265e2d4c43.jpg)
 
@@ -12,16 +12,22 @@ Git is the most popular version control system in the world. It is a version con
 
 - ### Git status:
 
-      command gives us all the necessary information about the current branch (current place in git repository).
+      command gives us all the necessary information
+      
+       about the current branch (current place in git repository).
 
 
 - ### Git add:
 
-      command Takes your files to the staging area(adding files to staging area)
+      command Takes your files to the staging
+      
+       area(adding files to staging area)
 
 - ### Git commit:
 
-      is like setting a checkpoint in the development process which you can go back to later if needed(white changes to Git repository).
+      is like setting a checkpoint in the development process which you
+      
+       can go back to later if needed(white changes to Git repository).
 
 # Github 
 
