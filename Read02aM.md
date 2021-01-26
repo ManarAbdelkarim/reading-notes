@@ -11,18 +11,28 @@ Markdown is a plain text formatting syntax aimed at making writing for the inter
 you can choose 6 sizes of heading using # when # is the largest and ###### is the smallest
 
     # Headigng:
+
+
 # Heading
 
     ## Headigng:
+
+
 ## Heading
 
     ### Headigng:
+
+
 ### Heading
 
     ##### Headigng:
+
+
 ##### Heading
 
     ###### Headigng:
+
+    
 ###### Heading
 
 - bold and italic:
@@ -31,7 +41,10 @@ you can make the text bold using __ __ or ** **
     
     **bold**
 
+
 **bold**
+
+
 
     __bold__
 
@@ -42,15 +55,18 @@ you can make the text italic using _ _ or * *
     
      *italic*
 
+
 *italic*
 
     _italic_
+
 
 _italic_
 
 you can make the text both bold and italic using *** ***
 
      ***bold & italic***
+
 
 ***bold & italic***
     
@@ -65,10 +81,11 @@ you can make an Unordered List using  * and space
     * Item 2b  
 
 
-  * Item 1
- * Item 2
-  * Item 2a
-  * Item 2b  
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b  
 
  List:
 1. Unordered List
