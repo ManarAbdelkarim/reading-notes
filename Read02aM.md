@@ -32,7 +32,7 @@ you can choose 6 sizes of heading using # when # is the largest and ###### is th
 
     ###### Headigng:
 
-    
+
 ###### Heading
 
 - bold and italic:
@@ -87,8 +87,8 @@ you can make an Unordered List using  * and space
 * Item 2a
 * Item 2b  
 
- List:
-1. Unordered List
+
+2. ordered List
 
 you can make an Unordered List using by typing numbe and . 
 
