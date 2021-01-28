@@ -16,6 +16,7 @@ This Page is for all the Readme pages in the Repositry
 |            ReadMe -Markdown Learning                 | [link](https://manarabdelkarim.github.io/reading-notes/Read02aM)  |
 |            ReadMe -Git & GitHub Learning                 | [link](https://manarabdelkarim.github.io/reading-notes/Read02b)  |
  ReadMe - Learning HTML                  | [link](https://manarabdelkarim.github.io/reading-notes/Read03S)  | |
- ReadMe - Learning JavaScript                  | [link](https://manarabdelkarim.github.io/reading-notes/Read04)  |
+ ReadMe - Learning JavaScript                  | [link](https://manarabdelkarim.github.io/reading-notes/Read04) 
+  |ReadMe - Learning Loops                   | [link](https://manarabdelkarim.github.io/reading-notes/Read05)  |
 
 
