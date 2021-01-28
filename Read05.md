@@ -72,8 +72,9 @@ There are three main expressetions in the condtions which are:
 
   -  Ifalse returns true
 
+<img src="https://miro.medium.com/max/480/1*YKB4AzklPRAbvYtDkZEkYQ.png" alt="for loop" style ="background :white;" />
 
-![||, &&](https://qph.fs.quoracdn.net/main-qimg-bc8139bb7744e28bd6a2512156cc3520)
+
 
   
 
