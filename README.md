@@ -18,5 +18,7 @@ This Page is for all the Readme pages in the Repositry
  ReadMe - Learning HTML                  | [link](https://manarabdelkarim.github.io/reading-notes/Read03S)  | |
  ReadMe - Learning JavaScript                  | [link](https://manarabdelkarim.github.io/reading-notes/Read04) 
   |ReadMe - Learning Loops                   | [link](https://manarabdelkarim.github.io/reading-notes/Read05)  |
+   |ReadMe - Learning CSS                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06b)  |
+ |ReadMe - Learning Functions                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06a)  |
 
 
