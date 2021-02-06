@@ -8,7 +8,7 @@ I believe that this course will help me to become a professional full-stack deve
 
 This Page is for all the Readme pages in the Repositry
 
-## Table of daily assignments 
+## ## Code 102 reading notes
 
 |                                   Read                                   |                             link                              |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -21,4 +21,16 @@ This Page is for all the Readme pages in the Repositry
    |ReadMe - Learning CSS                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06b)  |
  |ReadMe - Learning Functions                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06a)  |
 
+
+| :-----------------------------------------------------------------------: | 
+
+## Code 201 reading notes
+
+This website is for all the reading notes of my 201 course.
+
+
+
+|                                   Read#                                   |                             link                              |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|                Read: 01 - Introductory HTML and JavaScript                | [link](https://manarabdelkarim.github.io/reading-notes/class01)  |
 
