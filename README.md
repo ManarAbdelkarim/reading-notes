@@ -22,7 +22,6 @@ This Page is for all the Readme pages in the Repositry
  |ReadMe - Learning Functions                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06a)  |
 
 
-| :-----------------------------------------------------------------------: | 
 
 ## Code 201 reading notes
 
