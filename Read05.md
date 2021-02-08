@@ -18,7 +18,7 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![while ,do ,for](https://lh3.googleusercontent.com/proxy/Fzev48KI8JsZ7O4lhXcFb0ZEJOJuZP7mHj9bCsidKRr-b7GYXOJggb1EdIMyEz6sL5WBywN5afqY-29WmVG4eMGOCdnXrK85NZPn7Mwv3qf27onnHWvkg26KzL8xeePaBFoDtCuEr0GL0ffV8VMzKj3pIAg719Be-l_6DcDKhwTQ8W3swc9O94dQ06ppl0k )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![while ,do ,for](https://www.r-craft.org/wp-content/uploads/2018/09/how-to-avoid-for-loop-in-r.png)
 
 
   ## Operatores ro Evaluate the condistions :
