@@ -267,7 +267,7 @@ Positioning allows you to move an element from where it would be placed when in 
            top: 70px;
            left: 10px;position: fixed; ">hi there </p>
          <p>that sticky "hi there" is the result XD <p>
-       <div>
+       </div>
 
 <div >
 <p style="
@@ -276,7 +276,7 @@ Positioning allows you to move an element from where it would be placed when in 
     top: 70px;
     left: 10px;position: fixed; ">hi there </p>
   <p>that sticky "hi there" is the result XD <p>
-<div>
+</div>
 <br>
  
 ## Screen Sizes
