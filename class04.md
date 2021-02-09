@@ -222,7 +222,7 @@ Positioning allows you to move an element from where it would be placed when in 
         top: 30px;
         left: 30px;">hi</p>
         <p>here another paragraph to see how it work <p>
-      <div>
+      </div>
 
 <div>
 <p style="position: relative;
@@ -231,7 +231,7 @@ Positioning allows you to move an element from where it would be placed when in 
   top: 30px;
   left: 30px;">hi</p>
   <p>here another paragraph to see how it work <p>
-<div>
+</div>
 <br>
 
 
@@ -245,7 +245,7 @@ Positioning allows you to move an element from where it would be placed when in 
           top: 30px;
           left: 30px;">hi there </p>
         <p>here another paragraph to see how it work <p>
-      <div>
+      </div>
 
 
 <div style="width = 50% ;height: 40px; background-color:green;">
@@ -255,7 +255,7 @@ Positioning allows you to move an element from where it would be placed when in 
     top: 30px;
     left: 30px;position: absolute; ">hi there </p>
   <p>here another paragraph to see how it work <p>
-<div>
+</div>
 <br>
 
 - **Fixed positioning** is very similar to absolute positioning, except that it fixes an element relative to the browser viewport, not another element.
