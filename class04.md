@@ -284,16 +284,16 @@ Different visitors to your site will have different sized screens that show
 different amounts of information, so your design needs to be able to
 work on a range of different sized screens.
 
-![screens](https://v3.alltecstores.com/themes/images/Aspect-Ratio-Comparison.jpg)
+![screens](img/screenSize.jpg)
 ## Screen Resolution
 Resolution refers to the number of dots a screen shows per inch. Some
 devices have a higher resolution than desktop computers and most
 operating systems allow users to adjust the resolution of their screens.
 
-![Screen Resolution](https://support.humblebundle.com/hc/article_attachments/360008054853/Resolutions.png)
+![Screen Resolution](img/Resolutions.png)
 
 ## Page Sizes
 
 Before smartphones and tablets became popular, web designers created fixed width pages that worked on the most common screen sizes - but now because screen sizes and display resolutions vary so much
 
-![Page Sizes](https://www.bedigitalgiants.com/wp-content/uploads/2020/01/Mobile-First-Design-Screen-Sizes-Digital-Giants.png)
+![Page Sizes](img/Mobile-First-Design-Screen-Sizes-Digital-Giants.png)
