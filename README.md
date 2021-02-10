@@ -34,7 +34,7 @@ This website is for all the reading notes of my 201 course.
 |         Read: 01 - Introductory HTML and JavaScript                | [link](https://manarabdelkarim.github.io/reading-notes/class01)  |
 |                Read: 02 -  HTML, CSS, and JavaScript                | [link](https://manarabdelkarim.github.io/reading-notes/class02)  
 | Read: 03 -  HTML, CSS, and JavaScript                            | [link](https://manarabdelkarim.github.io/reading-notes/class03)  |
-| Read: 04 -  HTML, CSS                            | [link](https://manarabdelkarim.github.io/reading-notes/class04)  |
+| Read: 04 -  HTML, CSS and Functions                           | [link](https://manarabdelkarim.github.io/reading-notes/class04)  |
 
 
 

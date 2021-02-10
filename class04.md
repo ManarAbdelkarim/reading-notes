@@ -267,18 +267,91 @@ Different visitors to your site will have different sized screens that show
 different amounts of information, so your design needs to be able to
 work on a range of different sized screens.
 
-![screens](img/screenSize.jpg)
+![screens](./img/screenSize.jpg)
 ## Screen Resolution
 Resolution refers to the number of dots a screen shows per inch. Some
 devices have a higher resolution than desktop computers and most
 operating systems allow users to adjust the resolution of their screens.
 
-![Screen Resolution](img/Resolutions.png)
+![Screen Resolution](./img/Resolutions.png)
 
 ## Page Sizes
 
 Before smartphones and tablets became popular, web designers created fixed width pages that worked on the most common screen sizes - but now because screen sizes and display resolutions vary so much
 
-![Page Sizes](img/Mobile-First-Design-Screen-Sizes-Digital-Giants.png)
+![Page Sizes](./img/Mobile-First-Design-Screen-Sizes-Digital-Giants.png)
 
 # Chapter 3: “Functions, Methods, and Objects” 
+
+### WHAT IS A FUNCTION?
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than rep eating the same set of statements). Functions consist of a series of statements that have been grouped together because they perform a specific task.
+
+
+### What is a method? 
+
+Method is the same as a function, except methods are created inside (and are part of) an object.
+
+### What is an Objects?
+ Objects are made up of properties and methods.
+
+![object](https://2.bp.blogspot.com/-xhofsjwnJGY/Wp9pkXTgh4I/AAAAAAAADHA/pXmWfP_1UkQZnKY88Ppf7SoLZSDLyOupACLcBGAs/s1600/object.gif)
+
+## Function Name(Identifier):
+In order to call the function later in your code, you must give it a name, so these are known as named functions.
+
+![Identifier](https://o.quizlet.com/t5EjZXOZNmCccfll8B28Ww.png)
+
+## Parameter and Argument 
+
+### What is the parameters?
+
+Parameters are variables listed as a part of the function definition when the function needs to be provided with information in order to achieve a given task.
+
+### What is the Arguments?
+Arguments are values passed to the function when it is invoked.
+
+
+![Arguments & parameters](https://miro.medium.com/max/770/1*BEB4cNegRTEZemNdnlqBhQ.png)
+
+## Declaring a Function:
+
+ To give the function a name and then write the statement needed to achieve its task inside the curly braces.
+
+## Calling a Function:
+
+ Execute all of the statements between its curly braces with just one line of code. calling
+
+Declaring Functions that need information: parameters
+
+## ANONYMOUS FUNCTIONS & FUNCTION EXPRESSIONS:
+
+ Expressions produce a value. They can be used where values are expected. If a function is placed where a browser expects to see an expression, (e.g., as an argument to a function), then it gets treated as an expression.
+
+
+## IMMEDIATELY INVOKED FUNCTION EXPRESSIONS (IIFE):
+
+ Pronounced "iffy," these functions are not given a name. Instead, they are executed once as the interpreter comes across them.
+
+## VARIABLE SCOPE:
+
+ Scope determines the accessibility (visibility) of these variables.The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function.
+
+##  types of scope:
+
+ 1. LOCAL VARIABLES : When a variable is created inside a function using the var keyword, it can only be used in that function. It is called a local variable or function-level variable.
+ 
+ 2. GLOBAL VARIABLES: 
+ 
+ any variable that declared outside all functions or curly braces ({})
+  If you create a variable outside of a function, then it can be used anywhere within the script. It is called a global variable and has global scope. 
+
+## HOW MEMORY & VARIABLES WORK: 
+Variables that are usable only in a specific part of your code are considered to be in a local scope.
+Global variables use more memory. 
+
+## Should I diclare locally or globally?
+
+The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed. So that , if we need the variable temprorily for one function it is better to use local scope
+
+![local](./img/Screenshot_3.png)
