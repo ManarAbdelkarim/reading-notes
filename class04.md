@@ -230,7 +230,7 @@ Positioning allows you to move an element from where it would be placed when in 
   border: 2px solid rgb(255,84,104);
   top: 30px;
   left: 30px;">hi</p>
-  <p>here another paragraph to see how it work <p>
+  <p>here another paragraph to see how it work </p>
 </div>
 <br>
 
@@ -244,19 +244,10 @@ Positioning allows you to move an element from where it would be placed when in 
           border: 2px solid rgb(255,84,104);
           top: 30px;
           left: 30px;">hi there </p>
-        <p>here another paragraph to see how it work <p>
+        <p>here another paragraph to see how it work </p>
       </div>
 
 
-<div style="width = 50% ;height: 40px; background-color:green;">
-<p style="
-    background: rgba(255,84,104,.3);
-    border: 2px solid rgb(255,84,104);
-    top: 30px;
-    left: 30px;position: absolute; ">hi there </p>
-  <p>here another paragraph to see how it work <p>
-</div>
-<br>
 
 - **Fixed positioning** is very similar to absolute positioning, except that it fixes an element relative to the browser viewport, not another element.
 
@@ -266,18 +257,10 @@ Positioning allows you to move an element from where it would be placed when in 
            border: 2px solid rgb(255,84,104);
            top: 70px;
            left: 10px;position: fixed; ">hi there </p>
-         <p>that sticky "hi there" is the result XD <p>
+         <p>that sticky "hi there" is the result XD </p>
        </div>
 
-<div >
-<p style="
-    background: rgba(255,84,104,.3);
-    border: 2px solid rgb(255,84,104);
-    top: 70px;
-    left: 10px;position: fixed; ">hi there </p>
-  <p>that sticky "hi there" is the result XD <p>
-</div>
-<br>
+
  
 ## Screen Sizes
 Different visitors to your site will have different sized screens that show
@@ -297,3 +280,5 @@ operating systems allow users to adjust the resolution of their screens.
 Before smartphones and tablets became popular, web designers created fixed width pages that worked on the most common screen sizes - but now because screen sizes and display resolutions vary so much
 
 ![Page Sizes](img/Mobile-First-Design-Screen-Sizes-Digital-Giants.png)
+
+# Chapter 3: “Functions, Methods, and Objects” 
