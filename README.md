@@ -36,7 +36,7 @@ This website is for all the reading notes of my 201 course.
 | Read: 03 -  HTML, CSS, and JavaScript                            | [link](https://manarabdelkarim.github.io/reading-notes/class03)  |
 | Read: 04 -  HTML, CSS and Functions                           | [link](https://manarabdelkarim.github.io/reading-notes/class04)  |
 | Read: 05 -  HTML, CSS Images, Color, Text                          | [link](https://manarabdelkarim.github.io/reading-notes/class05)  |
-| Read: 06 -  Problem Domain, Objects, and the DOM                          | [link](https://manarabdelkarim.github.io/reading-notes/class05)  |
+| Read: 06 -  Problem Domain, Objects, and the DOM                          | [link](https://manarabdelkarim.github.io/reading-notes/class06)  |
 
 
  
