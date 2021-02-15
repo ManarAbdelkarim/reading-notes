@@ -38,6 +38,7 @@ This website is for all the reading notes of my 201 course.
 | Read: 05 -  HTML, CSS Images, Color, Text                          | [link](https://manarabdelkarim.github.io/reading-notes/class05)  |
 | Read: 06 -  Problem Domain, Objects, and the DOM                          | [link](https://manarabdelkarim.github.io/reading-notes/class06)  |
 | Read: 07 -  Object-Oriented Programming, HTML Tables                          | [link](https://manarabdelkarim.github.io/reading-notes/class07)  |
+| Read: 08  - More CSS Layout                          | [link](https://manarabdelkarim.github.io/reading-notes/class08)  |
 
 
  
