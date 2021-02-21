@@ -105,21 +105,7 @@ body {
   background-repeat: repeat-y;
 }
 <br>
-
-<style>
-#test {
-  background-image: url("./img/teamAttack.jpg");
-  background-repeat: repeat-y;
-  background-position:center;
-  background-size:10%;
-}
-</style>
-<html>
-<div id='test' style="height: 100px">
-</body>
-</html>
-
-<br><br><br><br><br>
+result at the end of the summary 
 
 **position of background image**
 
@@ -186,3 +172,18 @@ local computer to your web server.
 - Many companies provide platforms for blogging, email
 newsletters, e-commerce and other popular website
 tools (to save you writing them from scratch).
+
+<style>
+#test {
+  background-image: url("./img/teamAttack.jpg");
+  background-repeat: repeat-y;
+  background-position:center;
+  background-size:10%;
+}
+</style>
+<html>
+<div id='test' style="height: 100px">
+</body>
+</html>
+
+<br><br><br><br><br>
