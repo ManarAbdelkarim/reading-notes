@@ -31,26 +31,17 @@ Canvas has several methods for drawing paths, boxes, circles, text, and adding i
 
  Example:
 
-        <canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
-        Your browser does not support the HTML canvas tag.</canvas>
+![](./img/Screenshot_9.png)
 
-         <script>
-         var c = document.getElementById("myCanvas");
-         var ctx = c.getContext("2d");
-         ctx.moveTo(0,0);
-         ctx.lineTo(200,100);
-         ctx.stroke();
-        </script>
 
-```result```:
+
+### result:
 
 ![](./img/image.png)
 
 
-        <html\>
-         <head\>
-          <meta charset="utf-8"/>
-          <script type="application/javascript">
+       
+       
             function draw() {
               var canvas = document.getElementById('canvas');
               if (canvas.getContext) {
@@ -63,12 +54,9 @@ Canvas has several methods for drawing paths, boxes, circles, text, and adding i
                 ctx.fillRect(30, 30, 50, 50);
               }
             }
-          </script>
-         </head\>
          <body onload="draw();"\>
            <canvas id="canvas" width="150" height="150"\></canvas\>
-         </body\>
-        </html\>
+   
 
 
 result:
