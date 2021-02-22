@@ -43,7 +43,7 @@ This website is for all the reading notes of my 201 course.
 | Read: 10  - Debugging                          | [link](https://manarabdelkarim.github.io/reading-notes/class10)  |
 | Read: 11  - Audio, Video, Images                          | [link](https://manarabdelkarim.github.io/reading-notes/class11)  |
 | Read: 12  - Chart.js, Canvas                          | [link](https://manarabdelkarim.github.io/reading-notes/class12)  |
-
+| Read: 13  - Local Storage                          | [link](https://manarabdelkarim.github.io/reading-notes/class13)  |
 
 
  
