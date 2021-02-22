@@ -101,7 +101,8 @@ Each of these three functions takes the same parameters. x and y specify the pos
 
 ![](./img/Screenshot_10.png)
 
-```result```:
+
+result:
 
 ![](./img/Screenshot_6.png)
         
@@ -176,23 +177,23 @@ Charts are far better for displaying data visually than tables and have the adde
 A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
 **Drawing a bar chart**
-```
-<canvas id="income" width="600" height="400"></canvas>
-var income = document.getElementById("income").getContext("2d");
-new Chart(income).Bar(barData);
-var barData = {
-	labels : ["January","February","March","April","May","June"],
-	datasets : [
-		{
-			fillColor : "#48A497",
-			strokeColor : "#48A4D1",
-			data : [456,479,324,569,702,600]
-		},
-		{
-			fillColor : "rgba(73,188,170,0.4)",
-			strokeColor : "rgba(72,174,209,0.4)",
-			data : [364,504,605,400,345,320]
-		}
 
-	]
-}
+       <canvas id="income" width="600" height="400"\></canvas\>
+       var income = document.getElementById("income").getContext("2d");
+       new Chart(income).Bar(barData);
+       var barData = {
+       	labels : ["January","February","March","April","May","June"],
+       	datasets : [
+       		{
+       			fillColor : "#48A497",
+       			strokeColor : "#48A4D1",
+       			data : [456,479,324,569,702,600]
+       		},
+       		{
+       			fillColor : "rgba(73,188,170,0.4)",
+       			strokeColor : "rgba(72,174,209,0.4)",
+       			data : [364,504,605,400,345,320]
+       		}
+       
+       ]
+       }
