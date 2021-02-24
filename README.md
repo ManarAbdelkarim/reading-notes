@@ -44,6 +44,8 @@ This website is for all the reading notes of my 201 course.
 | Read: 11  - Audio, Video, Images                          | [link](https://manarabdelkarim.github.io/reading-notes/class11)  |
 | Read: 12  - Chart.js, Canvas                          | [link](https://manarabdelkarim.github.io/reading-notes/class12)  |
 | Read: 13  - Local Storage                          | [link](https://manarabdelkarim.github.io/reading-notes/class13)  |
+| Read: 14a  - CSS Transforms, Transitions, and Animations                          | [link](https://manarabdelkarim.github.io/reading-notes/class14a)  |
+| Read: 13  - Local Storage                          | [link](https://manarabdelkarim.github.io/reading-notes/class14b)  |
 
 
  
