@@ -48,6 +48,10 @@ This website is for all the reading notes of my 201 course.
 | Read: 14b  - What Google Learned About Teams                        | [link](https://manarabdelkarim.github.io/reading-notes/class14b)  |
 
 
- 
+ ## Code 301 reading notes
 
+This website is for all the reading notes of my 301 course.
 
+|                                   Read#                                   |                             link                              |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|         Read: 01 - SMACSS and Responsive Web Design                | [link](https://manarabdelkarim.github.io/reading-notes/301/class00)  |
