@@ -22,6 +22,7 @@ This Page is for all the Readme pages in the Repositry
    |ReadMe - Learning CSS                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06b)  |
  |ReadMe - Learning Functions                   | [link](https://manarabdelkarim.github.io/reading-notes/Read06a)  |
 
+--------
 ## Code 201 - Foundations of Software Development
 
 This website is for all the reading notes of my 201 course.
@@ -44,6 +45,7 @@ This website is for all the reading notes of my 201 course.
 | Read: 14a  - CSS Transforms, Transitions, and Animations                          | [link](https://manarabdelkarim.github.io/reading-notes/class14a)  |
 | Read: 14b  - What Google Learned About Teams                        | [link](https://manarabdelkarim.github.io/reading-notes/class14b)  |
 
+---------
 ## Code 301 - Intermediate Software Development
 
 This website is for all the reading notes of my 301 course.
@@ -51,6 +53,8 @@ This website is for all the reading notes of my 301 course.
 |                                   Read#                                   |                             link                              |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
 |         Read: 01 - SMACSS and Responsive Web Design                | [link](https://manarabdelkarim.github.io/reading-notes/301/class00)  |
+|         Read: 02 - jQuery, Events, and The DOM             | [link](https://manarabdelkarim.github.io/reading-notes/301/class01)  |
+
 
 ## Code 401 - Advanced Software Development
 
