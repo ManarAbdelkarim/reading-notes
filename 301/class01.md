@@ -1,183 +1,165 @@
-# PAIR PROGRAMMING
+# Read: 01 - SMACSS and Responsive Web Design
+
+## Responsive web design
+
+![Responsive web design
+](https://i1.wp.com/www.leaderquestonline.com/wp-content/uploads/2015/02/boston-globe-brolik.png?resize=972%2C621&ssl=1)
+
+### What is RDW?
+
+Responsive web design is the practice of building a website suitable to work on every device,
+and every screen size, no matter how large or small, mobile or desktop. Responsive web design is focused around providing an intuitive and grati
+fying experience for everyone. Desktop computer and cell phone users alike all benefit from responsive websites.
+
+### Responsive vs. Adaptive vs. Mobile
+
+![Responsive vs. Adaptive](https://i.pinimg.com/originals/e2/48/f2/e248f2a686589c0d0730600f1bf0f598.png)
+
+- Responsive means to react quickly and positively to any change
+     - With responsive design websites continually and fluidly change based on different factors such as viewport width
+- adaptive means to be easily modified for a new purpose or situation, such as change.
+     - while adaptive websites are built to a group of preset factors.
+
+- Mobile  means to build a separate website commonly on a new domain solely for mobile users.
+
+##  Flexible Layouts
+
+Responsive web design is broken down into three main components, including
+
+1. flexible layouts
+
+    flexible layouts, is the practice
+of building the layout of a website with a flexible grid, capable of dynamically resizing to
+ any width.Flexible grids are built using relative length units, most commonly percentages or em units.
+ These relative lengths are then used to declare common grid property
+ values such as width, margin, or padding.
 
 
-## JQuery
+ - Relative Viewport Lengths:
+ -   `vw`\
+    Viewports width
+-   `vh`\
+    Viewports height
+-   `vmin`\
+    Minimum of the viewport's height and width
+-   `vmax`\
+    Maximum of the viewport's height and width
 
-![JQuery](https://www.magesolution.com/blog/wp-content/uploads/2014/01/what-is-jquery-11.png)
-### What is jQuery?
+   ### The formula is based around taking the target width of an element and dividing it by the width of it’s parent element. The result is the relative width of the target element.
 
-jQuery is a JavaScript file that you include in your web pages. 
-It lets you find elements using CSS-style selectors and then do 
-something with the elements using jQuery methods. 
+```target ÷ context = result```
 
-#### 1: FIND ELEMENTS using JQuery:
-  FIND ELEMENTS USING Css-STYLE SELECTORS by A function called jQuery
-   () lets you find one or more elements in the page.
-
-- SIMILARITIES TO DOM:
-
-    -  jQuery selectors perform a similar task to traditional DOM queries, but the syntax is much simpler. 
-     - You can store the jQuery object in a variable, just as you can with DOM nodes. 
-     - You can use jQuery methods and properties (like DOM methods and properties) to manipulate the DOM nodes that you select.
+2. media queries
+Media queries were built as an extension to media types commonly found when targeting and including styles. Media queries provide the ability to specify different styles for individual browser and device circumstances
 
 
-####  2: DO SOMETHING WITH THE ELEMENTS USING JQUERY METHODS:
+### Mobile First
+One popular technique with using media queries is called mobile first. The mobile first approach includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows.
 
--  KEY DIFFERENCES FROM DOM:
-    - It's cross-browser, and there's no need to write fallback code. 
-    - Selecting elements is simpler (because it uses CSS-style syntax) and is more accurate.
-    - Event handling is simpler as it uses one method that works in all major browsers. Methods affect all the selected elements without the need to loop through each one  
-    - Additional methods are provided for popular required tasks such as animation 
-    - Once you have made a selection, you can apply multiple methods to it.
+3. flexible media.
 
-    ### WHY USE JQUERY?
+As viewports begin to change size media doesn’t always follow suit. Images, videos, and other media types need to be scalable, changing their size as the size of the viewport changes.
 
-    ![WHY USE JQUERY](https://wptips.dev/wp-content/uploads/2021/01/thumb-use-jquery.jpg)
+## Scalable and Modular Architecture for CSS (SMACSS)
 
-    jQuery doesn't do anything you cannot achieve with pure JavaScript.
-    It is just a JavaScript file but estimates show it has been used on over a
-    quarter of the sites on the web, because it makes coding simpler. 
+![smacss](https://static.frontendmasters.com/assets/courses/2015-02-18-smacss/thumb.jpg)
 
-    jQuery's motto is "Write less, do more," because it allows you to achieve
-    the same goals but in fewer lines of code than you would need to write
-    with plain JavaScript. 
+### What is it?
+-----------
 
-    1. SIMPLE SELECTORS 
-
-    2. COMMON TASKS IN LESS CODE 
-
-    3. CROSS-BROWSER COMPATIBILITY 
+SMACSS (pronounced "smacks") is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
 
 -----------
 
-## 6 Reasons for Pair Programming
+### Categorizing CSS Rules
 
-![](https://i1.wp.com/blexin.com/wp-content/uploads/2020/12/01-1.png?fit=1024%2C608&ssl=1)
+![Categorizing CSS Rules](https://miro.medium.com/max/700/1*EqNOOn4VG-c6dvMIEZGTRA.png)
 
+- Base rules
+     are the defaults. They are almost exclusively single element selectors but it could include attribute selectors, pseudo-class selectors, child selectors or sibling selectors. Essentially, a base style says that wherever this element is on the page, it should look like this
 
-### How does pair programming work?
- pair programming commonly involves two roles:
- 1. the Driver 
-    - The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
-    - Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code.
-    - The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+- Layout rules
 
- 2.  the Navigator.
-     -  The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs.
-     - The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
+    divide the page into sections. Layouts hold one or more modules together.
 
-     ![](https://miro.medium.com/max/7676/1*sBJhFwmpfbftanqzxOeK_w.jpeg)
---------
+- Modules
 
-### Why pair program?
-1. Greater efficiency
+     are the reusable, modular parts of our design. They are the callouts, the sidebar sections, the product lists and so on.
 
-    when two people focus on the same code base, it is easier to catch mistakes
+- State rules
 
-2. Engaged collaboration
+     are ways to describe how our modules or layouts will look when in a particular state.
 
-    When developers pair program, they rely more on each other and can often find a solution together 
+- Theme rules
 
-3. Learning from fellow students
+    are similar to state rules in that they describe how modules or layouts might look. Most sites don’t require a layer of theming but it is good to be aware of it.
 
-    working with a teammate can expose developers to techniques they otherwise would not have thought of. 
+### Naming Rules
 
-4. Social skills
+![ Naming Rules](https://on.notist.cloud/slides/deck500/large-41.png)
 
-    Pair programming is great for improving social skills. When working with someone who has a different coding style, communication is key. 
+By separating rules into the five categories, naming convention is beneficial for immediately understanding which category a particular style belongs to and its role within the overall scope of the page.
 
-5. Job interview readiness
+- For styling grid use grid as prefix Eg:class=”grid-serviceList1.
 
-    A common step in many interview processes involves pair programming between a current employee and an applicant, either in person or through a shared screen. They will carry out exercises together
+- For styling layout use layout as prefix Eg: HTML : class=”layout-primary”.
+- for theming use theme as prefix CSS: .theme-header {}.
 
-6. Work environment readiness
-
-    Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product.
-
----------
-
-## EFFECTS 
-
-### BASIC EFFECTS 
-                                  
-METHOD                                 |                             DESCRIPTION                                |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|   . show ()  |  Displays selected elements|
-|   . Hides () |  Hides selected elements|
-|   . togg1e ()  |Toggles between showing and hiding selected elements|
-
-### FADING EFFECTS
-
-METHOD                                 |                             DESCRIPTION                                |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|   . fadeln ()  |  Fades in selected elements making them opaque|
-|   . fadeout () |Fades out selected elements making them transparent|
-|   . fadeTo ()  |Changes opacity of selected elements|
-|   .fadeTogg1e()  |Hides or shows selected elements by changing theiropacity (the opposite of their current state)|
+- for state use is as prefix CSS: .is-active {}, .button-is-active {}
 
 
+## FLOAT
 
+![FLOAT](https://miro.medium.com/max/540/1*gL79pBRvVlMjX0Ovevz96w.png)
 
-### SLIDING EFFECTS
-METHOD                                 |                             DESCRIPTION                                |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|   . slideUp ()  |  Shows selected elements with a sliding motion|
-|   . slideDown () |  Hides selected elements with a sliding motion|
-|   .s1ideToggle()  |Hides or shows selected elements with a sliding
-motion (in the opposite direction to its current state)|
+### what is Float
 
+Float is a CSS positioning property. To understand its purpose and origin, we can look to print design. In a print layout, images may be set into the page such that text wraps around them as needed. This is commonly and appropriately called “text wrap”.
 
-### CUSTOM EFFECTS
+### Clear
 
-METHOD                                 |                             DESCRIPTION                                |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|   . delay ()  |  Delays execution of subsequent items in queue|
-|   . stop () |  Stops an animation if it is currently running|
-|   .animate()  |Creates custom animations|
+Clearing the Float Float’s sister property is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
 
--------------
+If you are in a situation where you always know what the succeeding element is going to be, you can apply the clear: both;
 
-## FINDING ELEMENTS (Using JQuery)
+### Float & Overflow
 
-### CONTENT FILTERS
+The Overflow Method relies on setting the overflow CSS property on a parent element. If this property is set to auto or hidden on the parent element, the parent will expand to contain the floats, effectively clearing it for succeeding elements. This method can be beautifully semantic as it may not require additional elements. However if you find yourself adding a new div just to apply this, it is equally as non-semantic as the empty div method and less adaptable. Also bear in mind that the overflow property isn’t specifically for clearing floats. Be careful not to hide content or trigger unwanted scrollbars.
 
-##### **GET/ CHANGE CONTENT:**
- - .html()
- - .replaceWith() 
- - .text()
- - .remove() 
+The Easy Clearing Method uses a clever CSS pseudo selector (:after) to clear floats. Rather than setting the overflow on the parent, you apply an additional class like “clearfix” to it. Then apply this CSS:
 
-##### **ELEMENTS:**
- - . before()
- - .after()
- - .prepend() 
- - .append()
- -  .remove() 
- - .clone()
- - .detach()
- - .empty()
- - .add() 
+        .clearfix:after { 
+          content: "."; 
+          visibility: hidden; 
+          display: block; 
+         height: 0; 
+         clear: both;
+        }
 
-#### **ATTRIBUTES:**
+This will apply a small bit of content, hidden from view, after the parent element which clears the float. This isn’t quite the whole story, as additional code needs to be used to accommodate for older browsers.
 
-- .attr () 
-- .removeAttr ()
-- .addClass() 
-- .removeClass()
-- .css()
+### Problems with Floats
 
-#### **FORM VALUES:**
+- Pushdown
 
-- . val() 
-- . i sNumeric () 
-GENERAL
-- .text() 
-- .closest() 
--  . parent()
--   .parents() 
-- .children() 
-- .siblings() 
--  .next() 
-- . nextAll () 
-- .prev() 
-- . prevAll () 
+Pushdown is a symptom of an element inside a floated item being wider than the float itself (typically an image). Most browsers will render the image outside the float, but not have the part sticking out affect other layout. IE will expand the float to contain the image, often drastically affecting layout. 
+
+QUICK FIX Make sure you don’t have any images that do this, use overflow: hidden to cut off excess.
+
+- Double Margin
+
+Double Margin Bug – Another thing to remember when dealing with IE 6 is that if you apply a margin in the same direction as the float, it will double the margin.
+
+ Quick fix: set display: inline on the float, and don’t worry it will remain a block-level element.
+
+- The 3px Jog
+
+The 3px Jog is when text that is up next to a floated element is mysteriously kicked away by 3px like a weird forcefield around the float. 
+
+Quick fix: set a width or height on the affected text.
+
+- IE 7
+
+the Bottom Margin Bug is when if a floated parent has floated children inside it, bottom margin on those children is ignored by the parent.
+
+ Quick fix: using bottom padding on the parent instead.
