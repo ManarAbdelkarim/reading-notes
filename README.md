@@ -55,6 +55,7 @@ This website is for all the reading notes of my 301 course.
 |         Read: 01 - SMACSS and Responsive Web Design                | [link](https://manarabdelkarim.github.io/reading-notes/301/class01)  |
 |         Read: 02 - jQuery, Events, and The DOM             | [link](https://manarabdelkarim.github.io/reading-notes/301/class02)  |
 |         Read: 03 - Flexbox and Templating             | [link](https://manarabdelkarim.github.io/reading-notes/301/class03)  |
+|        Read: 04 - Responsive Web Design and Regular Expressions             | [link](https://manarabdelkarim.github.io/reading-notes/301/class04)  |
 
 
 ## Code 401 - Advanced Software Development
