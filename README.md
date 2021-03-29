@@ -58,9 +58,10 @@ This website is for all the reading notes of my 301 course.
 |        Read: 04 - Responsive Web Design and Regular Expressions             | [link](https://manarabdelkarim.github.io/reading-notes/301/class04)  |
 |         Read: 05 - Heroku Deployment            | [link](https://manarabdelkarim.github.io/reading-notes/301/class05)  |
 |         Read: 06 - Node, Express, and APIs            | [link](https://manarabdelkarim.github.io/reading-notes/301/class06)  |
-
+|         Readings 07 - REST            | [link](https://manarabdelkarim.github.io/reading-notes/301/class07)  |
 
 ## Code 401 - Advanced Software Development
+
 
 This website is for all the reading notes of my 401 course.
 
