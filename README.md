@@ -62,8 +62,7 @@ This website is for all the reading notes of my 301 course.
 |         Read: 08 - SQL                                      | [link](https://manarabdelkarim.github.io/reading-notes/301/class08)
 | Read: 09 - Refactoring              |[link](https://manarabdelkarim.github.io/reading-notes/301/class09)  |
 | Read: 10 - The Call Stack and Debugging              |[link](https://manarabdelkarim.github.io/reading-notes/301/class10)  |
-
-
+| Read: 11 - EJS                        |[link](https://manarabdelkarim.github.io/reading-notes/301/class11)  |
 
 
 ## Code 401 - Advanced Software Development
