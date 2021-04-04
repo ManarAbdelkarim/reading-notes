@@ -29,7 +29,11 @@ Example of how the main directory should look like:
 2. You use <%- include( PARTIAL_FILE ) %> where the partial file is relative to the template you use it in.
 
         **Note** : The <%- %> tags allow us to output the unescaped content onto the page (notice the -). This is important when using the include() statement since you don’t want EJS to escape your HTML characters like ‘<’, ‘>’, etc…
+
+
 ![](https://i.stack.imgur.com/Jt4nj.png)
+
+
 
 3. Let’s create the homepage template in views/home.ejs and   include the navbar and footer partial we just created:
 
