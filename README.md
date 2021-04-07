@@ -66,6 +66,8 @@ This website is for all the reading notes of my 301 course.
 | Read: 12 - Components                        |[link](https://manarabdelkarim.github.io/reading-notes/301/class12)  |
 |Read: 13 - Update/Delete                       |[link](https://manarabdelkarim.github.io/reading-notes/301/class13)  |
 Read: 14a - DB Normalization                       |[link](https://manarabdelkarim.github.io/reading-notes/301/class14a)  |
+Read: 15 - Diversity and Inclusion |[link](https://manarabdelkarim.github.io/reading-notes/301/class15)  |
+
 
 
 ## Code 401 - Advanced Software Development
