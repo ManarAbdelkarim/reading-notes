@@ -79,3 +79,4 @@ This website is for all the reading notes of my 401 course.
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------: |
 |Read: 01 - Big O |[link](https://manarabdelkarim.github.io/reading-notes/401/class01)  |
 |Read: 02 - Testing and Modules |[link](https://manarabdelkarim.github.io/reading-notes/401/class02)  |
+|Read: 03 -  FileIO & Exceptions |[link](https://manarabdelkarim.github.io/reading-notes/401/class03)  |
