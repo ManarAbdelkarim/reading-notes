@@ -1,15 +1,19 @@
  # FileIO & Exceptions
+
 ![](https://dbader.org/static/figures/python-reading-writing-files.jpg)
 
- ### What is a file ?
+### What is a file ?
+
  a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable.
 
- ### Parts of the file :
+### Parts of the file :
+
 - Header: metadata about the contents of the file (file name, size, type, and so on)
 - Data: contents of the file as written by the creator or editor
 - End of file (EOF): special character that indicates the end of the file
 
 ### What is a File Paths 
+
 Folder Path: the file folder location on the file system where subsequent folders are separated by a forward slash / (Unix) or backslash \ (Windows)
 
 ### File Paths Parts :
@@ -57,7 +61,7 @@ raise allows you to throw an exception at any time.
 ## The AssertionError Exception
 assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
 
- ## The try and except Block: Handling Exceptions
+## The try and except Block: Handling Exceptions
  
 - In the try clause, all statements are executed until an exception is encountered.
 
