@@ -83,4 +83,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 04 -  Topic |[link](https://manarabdelkarim.github.io/reading-notes/401/class04)  |
 |Read: 05 -  Implementation: Linked Lists |[link](https://manarabdelkarim.github.io/reading-notes/401/class05)  |
 |Read: 06 -  Game of Greed 1 |[link](https://manarabdelkarim.github.io/reading-notes/401/class06)  |
+|Read: 07 -  Game of Greed 2 |[link](https://manarabdelkarim.github.io/reading-notes/401/class07)  |
 |Read: 08 -  Game of Greed 1 |[link](https://manarabdelkarim.github.io/reading-notes/401/class08)  |
