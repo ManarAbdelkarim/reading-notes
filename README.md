@@ -87,4 +87,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 08 -  Game of Greed 3 |[link](https://manarabdelkarim.github.io/reading-notes/401/class08)  |
 |Read: 09 -  Game of Greed 4 |[link](https://manarabdelkarim.github.io/reading-notes/401/class09)  |
 |Read: 10 -   Stacks and Queues |[link](https://manarabdelkarim.github.io/reading-notes/401/class10)  |
-|Read: 11 -   Data Analysis |[link](https://manarabdelkarim.github.io/reading-notes/401/class11)  |
+|Read: 12 -   Pandas |[link](https://manarabdelkarim.github.io/reading-notes/401/class11)  |
+reading-notes/401/class12)  |
