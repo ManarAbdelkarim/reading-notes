@@ -90,4 +90,6 @@ This website is for all the reading notes of my 401 course.
 |Read: 12 -   Pandas |[link](https://manarabdelkarim.github.io/reading-notes/401/class12)  |
 |Read: 13 -   Linear Regressions |[link](https://manarabdelkarim.github.io/reading-notes/401/class13)  |
 |Read: 14 -   Linear Matplotlib |[link](https://manarabdelkarim.github.io/reading-notes/401/class14)  |
+|Read: 15 -   Tree |[link](https://manarabdelkarim.github.io/reading-notes/401/class15)  |
+|Read: 16 -   Machine Learning Intro |[link](https://manarabdelkarim.github.io/reading-notes/401/class16)  |
 
