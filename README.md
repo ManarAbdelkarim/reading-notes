@@ -93,4 +93,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 15 -   Tree |[link](https://manarabdelkarim.github.io/reading-notes/401/class15)  |
 |Read: 16 -   Machine Learning Intro |[link](https://manarabdelkarim.github.io/reading-notes/401/class16)  |
 |Read: 17 -   Web Scraping |[link](https://manarabdelkarim.github.io/reading-notes/401/class17)  |
+|Read: 18 -   Cryptography |[link](https://manarabdelkarim.github.io/reading-notes/401/class18)  |
 
