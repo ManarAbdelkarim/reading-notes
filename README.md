@@ -95,4 +95,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 17 -   Web Scraping |[link](https://manarabdelkarim.github.io/reading-notes/401/class17)  |
 |Read: 18 -   Cryptography |[link](https://manarabdelkarim.github.io/reading-notes/401/class18)  |
 |Read: 19 -   Automation |[link](https://manarabdelkarim.github.io/reading-notes/401/class19)  |
+|Read: 20 -   Automation |[link](https://manarabdelkarim.github.io/reading-notes/401/class20)  |
 
