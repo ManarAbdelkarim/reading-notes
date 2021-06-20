@@ -99,4 +99,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 27 -   Django Models |[link](https://manarabdelkarim.github.io/reading-notes/401/class27)  |
 |Read: 28 -   Django CRUD and Forms |[link](https://manarabdelkarim.github.io/reading-notes/401/class28)  |
 |Read: 29 -   Django Custom User |[link](https://manarabdelkarim.github.io/reading-notes/401/class29)  |
-|Read: 30 -   Hashtables |[link](https://manarabdelkarim.github.io/reading-notes/401/class23)  |
+|Read: 30 -   Hashtables |[link](https://manarabdelkarim.github.io/reading-notes/401/class30)  |
+|Read: 31 -   Django REST Framework & Docker |[link](https://manarabdelkarim.github.io/reading-notes/401/class31)  |
