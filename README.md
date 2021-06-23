@@ -103,3 +103,4 @@ This website is for all the reading notes of my 401 course.
 |Read: 31 -   Django REST Framework & Docker |[link](https://manarabdelkarim.github.io/reading-notes/401/class31)  |
 |Read: 32 -   Permissions & Postgresql |[link](https://manarabdelkarim.github.io/reading-notes/401/class32)  |
 |Read: 33 -   Authentication & Production Server |[link](https://manarabdelkarim.github.io/reading-notes/401/class33)  |
+|Read: 34 -   API Deployment |[link](https://manarabdelkarim.github.io/reading-notes/401/class34)  |
