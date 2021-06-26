@@ -104,3 +104,5 @@ This website is for all the reading notes of my 401 course.
 |Read: 32 -   Permissions & Postgresql |[link](https://manarabdelkarim.github.io/reading-notes/401/class32)  |
 |Read: 33 -   Authentication & Production Server |[link](https://manarabdelkarim.github.io/reading-notes/401/class33)  |
 |Read: 34 -   API Deployment |[link](https://manarabdelkarim.github.io/reading-notes/401/class34)  |
+|Read: 35 -   Graphs |[link](https://manarabdelkarim.github.io/reading-notes/401/class35)  |
+|Read: 36 -   DSA Review |[link](https://manarabdelkarim.github.io/reading-notes/401/class36)  |
