@@ -1,14 +1,11 @@
 # React 1
 
-
- 
 ## Why JSX?
 React embraces the fact that rendering logic is inherently coupled with other UI logic: how events are handled, how the state changes over time, and how the data is prepared for display.
 
 Instead of artificially separating technologies by putting markup and logic in separate files, React separates concerns with loosely coupled units called “components” that contain both. We will come back to components in a further section, but if you’re not yet comfortable putting markup in JS, this talk might convince you otherwise.
 
 ## How Does JSX Work?
-
 
 When the JSX expressions are compiled, they are converted into JavaScript objects, representing React elements.
 React then uses these elements to build the corresponding HTML DOM and display it in the browser.
@@ -25,9 +22,7 @@ use  ReactDOM.render()
 
 ## Updating the Rendered Element
 
-
 With our knowledge so far, the only way to update the UI is to create a new element, and pass it to ReactDOM.render().
-
 
 ### `NOTE: React Only Updates What’s Necessary`
 
@@ -89,10 +84,8 @@ The only difference is that event names use camelCase syntax and the event handl
 
 ## Handling User Input
 
-
 One of the common ways that users interact with web pages is through text fields.
 
 We can handle user input in React using the onChange event of the text field.
 When the value of the text field changes, the event handler is called, updating the value of the field in the component's state.
 This way you always have the actual value of the text field in the state.
-
