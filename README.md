@@ -109,4 +109,6 @@ This website is for all the reading notes of my 401 course.
 |Read: 37 -   React 1 |[link](https://manarabdelkarim.github.io/reading-notes/401/class37)  |
 |Read: 38 -   React 2 |[link](https://manarabdelkarim.github.io/reading-notes/401/class38)  |
 |Read: 39 -   React 3 |[link](https://manarabdelkarim.github.io/reading-notes/401/class39)  |
-|Read: 39 -   React 4 |[link](https://manarabdelkarim.github.io/reading-notes/401/class40)  |
+|Read: 40 -   React 4 |[link](https://manarabdelkarim.github.io/reading-notes/401/class40)  |
+|Read: 41 -   Readings: Ethics |[link](https://manarabdelkarim.github.io/reading-notes/401/class41)  |
+|Read: 41 -   Readings: Pythonisms |[link](https://manarabdelkarim.github.io/reading-notes/401/class42)  |
